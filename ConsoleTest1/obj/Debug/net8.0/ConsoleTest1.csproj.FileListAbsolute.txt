@@ -1,0 +1,14 @@
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\bin\Debug\net8.0\ConsoleTest1.exe
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\bin\Debug\net8.0\ConsoleTest1.deps.json
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\bin\Debug\net8.0\ConsoleTest1.runtimeconfig.json
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\bin\Debug\net8.0\ConsoleTest1.dll
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\bin\Debug\net8.0\ConsoleTest1.pdb
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.AssemblyInfoInputs.cache
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.AssemblyInfo.cs
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.dll
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\refint\ConsoleTest1.dll
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.pdb
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ConsoleTest1.genruntimeconfig.cache
+C:\Users\Ярослав\source\repos\PR1TEST\ConsoleTest1\obj\Debug\net8.0\ref\ConsoleTest1.dll

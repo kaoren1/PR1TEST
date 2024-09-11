@@ -1,0 +1,11 @@
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\bin\Debug\net8.0\MainTest.deps.json
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\bin\Debug\net8.0\MainTest.dll
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\bin\Debug\net8.0\MainTest.pdb
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfoInputs.cache
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfo.cs
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.dll
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\refint\MainTest.dll
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\MainTest.pdb
+C:\Users\Ярослав\source\repos\PR1TEST\MainTest\obj\Debug\net8.0\ref\MainTest.dll
